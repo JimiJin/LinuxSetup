@@ -3,4 +3,4 @@ My default setting when inititializing a linux server
 
 Make sure you install curl first
 
-`bash -c '$(curl https://raw.githubusercontent.com/JimiJin/LinuxSetup/master/setup.sh?token=AC4AK3LB5ILRRORWCQSURQC7NGA4W)'`
+`bash -c '$(https://raw.githubusercontent.com/JimiJin/LinuxSetup/master/setup.sh)'`
