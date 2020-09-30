@@ -5,6 +5,9 @@ apt install curl
 
 curl https://raw.githubusercontent.com/JimiJin/LinuxSetup/master/.vimrc --output /root/.vimrc
 
+###nginx###
+apt install nginx
+
 
 ###ARIA2###
 apt install aria2
