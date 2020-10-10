@@ -14,8 +14,8 @@ curl https://raw.githubusercontent.com/JimiJin/LinuxSetup/master/aria2c.conf --o
 aria2c --conf-path=/root/.aria2/aria2.conf
 
 ###ARIA2 UI###
-mkdir -p /www/aria2-webui
-curl https://raw.githubusercontent.com/JimiJin/LinuxSetup/master/index.html --output /www/aria2-webui/index.html
+mkdir -p /www/webui-aria2
+curl https://raw.githubusercontent.com/JimiJin/LinuxSetup/master/index.html --output /www/webui-aria2/index.html
 
 
 ###nginx###
